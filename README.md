@@ -8,7 +8,7 @@ In addition to the Pig scripts I have created a python program which automates t
 
 ![SS-1](SS-1.png)
 
-![SS-2]("SS-2.png")
+![SS-2](SS-2.png)
 
 
 
