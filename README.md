@@ -6,9 +6,9 @@ In this project we have created several script files which are used to get vario
 
 In addition to the Pig scripts I have created a python program which automates the running of these scripts as some of them require a user input so using python it was easy to make the inputs more user friendly.
 
-![SS-1](SS-1.png =400x400)
+![SS-1](SS-1.png){:height="400px" width="400px"}
 
-![SS-2](SS-2.png =400x400)
+![SS-2](SS-2.png){:height="400px" width="400px"}
 
 
 
